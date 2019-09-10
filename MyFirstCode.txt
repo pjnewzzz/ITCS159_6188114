@@ -1,0 +1,4 @@
+“The faculty of Information and Communication Technology”
+“This is my new feature”
+“my commit to the myNewFeature branch”
+“add from the master”
